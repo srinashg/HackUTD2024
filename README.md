@@ -1,2 +1,2 @@
 # HackUTD2024
-HackUTD 2024
+App name: TBD
