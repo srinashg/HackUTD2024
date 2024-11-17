@@ -1,2 +1,2 @@
 # HackUTD2024
-App name: TBD
+App name: SustainaBRE
